@@ -1,6 +1,7 @@
 {
   "name": "tosee",
   "version": "0.1.0",
+  "homepage": "https://memipalasidi-lgtm.github.io/tosee/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
